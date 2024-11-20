@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://naka-nishi-s.github.io/-react-deploy_to_github_page/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
