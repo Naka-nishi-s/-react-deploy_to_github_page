@@ -4,5 +4,5 @@ import { defineConfig } from "vite";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  build: { outDir: "docs" },
+  base: "/-react-deploy_to_github_page/",
 });
